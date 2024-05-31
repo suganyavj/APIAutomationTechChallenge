@@ -1,0 +1,21 @@
+10:14:21.022 [main] INFO  stepDefinitions.searchCountSteps - <-------------------Response-------------->
+10:14:21.048 [main] INFO  stepDefinitions.searchCountSteps - ,-----Status code:------>200
+10:14:21.049 [main] INFO  stepDefinitions.searchCountSteps - ,-----Status Line:------>HTTP/1.1 200 OK
+10:14:30.822 [main] INFO  stepDefinitions.searchCountSteps - <-------------------Response-------------->
+10:14:30.825 [main] INFO  stepDefinitions.searchCountSteps - ---Finding the number of searches in deli---
+10:14:31.160 [main] INFO  stepDefinitions.searchCountSteps - <----------------Header values------------------>
+10:14:31.161 [main] INFO  stepDefinitions.searchCountSteps - ,-----Content Type:------>application/json; charset=utf-8
+10:14:40.658 [main] INFO  stepDefinitions.searchCountSteps - <-------------------Response-------------->
+10:14:40.661 [main] INFO  stepDefinitions.searchCountSteps - ----validating the fields-----
+10:14:40.661 [main] INFO  stepDefinitions.searchCountSteps - ----validating the fields-----
+10:14:40.661 [main] INFO  stepDefinitions.searchCountSteps - ----validating the fields-----
+10:14:40.661 [main] INFO  stepDefinitions.searchCountSteps - ----validating the fields-----
+10:14:40.661 [main] INFO  stepDefinitions.searchCountSteps - ----validating the fields-----
+10:14:40.662 [main] INFO  stepDefinitions.searchCountSteps - ----validating the fields-----
+10:14:40.662 [main] INFO  stepDefinitions.searchCountSteps - -----validating search count----
+10:14:51.109 [main] INFO  stepDefinitions.searchCountSteps - <-------------------Response-------------->
+10:14:51.112 [main] INFO  stepDefinitions.searchCountSteps - ------getting the sum of search-----
+10:14:51.261 [main] INFO  stepDefinitions.searchCountSteps - ----getting the total count------
+10:14:59.812 [main] INFO  stepDefinitions.searchCountSteps - <-------------------Response-------------->
+10:14:59.815 [main] INFO  stepDefinitions.searchCountSteps - ----validating the artcle count not less than 10---
+10:14:59.872 [main] INFO  stepDefinitions.searchCountSteps - ----validating the UntraceableProductCount should not be greater than 0---
